@@ -1,0 +1,14 @@
+# normal mode
+git reset --hard st
+
+# insert mode
+any
+
+# visual mode
+presentation index
+
+# Git
+git reset --hard mc
+git merge conflict
+# undo merge
+git reset --merge ORIG_HEAD

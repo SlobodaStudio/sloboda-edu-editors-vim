@@ -1,0 +1,6 @@
+/ - forward
+? - backward
+n - next result
+N - prev result
+* - next word under cursor
+# - prev word under cursor
